@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".MainActivity4"
+    android:background="#C0C0C0"
+    >
+
+
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+
+            <androidx.appcompat.widget.Toolbar
+                android:id="@+id/toolbar"
+                android:layout_width="408dp"
+                android:layout_height="wrap_content"
+                android:background="#271f27"
+                android:minHeight="?actionBarSize"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="1.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:titleTextColor="@color/white" />
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Hobies"
+                android:textColor="@color/white"
+                android:textSize="25sp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                android:layout_marginLeft="190dp" />
+
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="46dp"
+                android:layout_height="31dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="@+id/toolbar"
+                app:layout_constraintHorizontal_bias="0.347"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.52"
+                app:srcCompat="@drawable/hobies_icon"
+                tools:ignore="MissingConstraints" />
+
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+    </com.google.android.material.appbar.AppBarLayout>
+
+
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="444dp"
+                android:orientation="vertical">
+
+
+                <TextView
+
+                    android:id="@+id/activity3text2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_margin="20dp"
+                    android:gravity="center"
+                    android:text="@string/activity4Text1"
+                    android:textColor="@color/black"
+                    android:textSize="25sp"
+                    android:textStyle="bold" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="400dp"
+                android:orientation="horizontal"
+                android:layout_marginTop="-400dp"
+                android:gravity="center"
+                >
+
+
+                <ImageView
+                    android:layout_marginRight="10dp"
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
+                    android:src="@drawable/creatingimg" />
+
+
+                <ImageView
+                    android:layout_marginLeft="10dp"
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
+                    android:src="@drawable/androidimg" />
+
+                />
+
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="154dp"
+                android:layout_marginTop="-150dp"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+
+                <ImageView
+                    android:layout_marginRight="20dp"
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
+                    android:src="@drawable/gameimage" />
+
+
+                <ImageView
+                    android:layout_width="152dp"
+                    android:layout_height="150dp"
+                    android:src="@drawable/androidstudio" />
+
+
+            </LinearLayout>
+
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+               >
+
+
+                <TextView
+                    android:id="@+id/activity4text1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_margin="20dp"
+                    android:layout_marginTop="20dp"
+                    android:gravity="center"
+                    android:text="@string/activity4Text2"
+                    android:textColor="@color/black"
+                    android:textSize="25sp"
+                    android:textStyle="bold"
+
+                    />
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:elevation="0dp"
+                    app:cardCornerRadius="100dp">
+
+                    <ImageView
+                        android:layout_width="400dp"
+                        android:layout_height="200dp"
+                        android:layout_gravity="center"
+                        android:src="@drawable/youtube" />
+                </androidx.cardview.widget.CardView>
+
+
+
+            </LinearLayout>
+
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="77dp"
+        android:layout_marginTop="-71dp"
+        android:background="#C0C0C0"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+
+        >
+
+
+        <LinearLayout
+            android:id="@+id/button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:baselineAligned="false"
+            android:gravity="center|bottom"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/backSkills"
+                android:drawableLeft="@drawable/thumb_up_alt_24"
+                android:layout_width="140dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="5dp"
+                android:background="@drawable/ronded_buttonsblack"
+                android:text="Skills"
+                app:backgroundTint="@null" />
+
+            <Button
+                android:id="@+id/home_button"
+                android:layout_width="78dp"
+                android:layout_height="63dp"
+                android:background="@drawable/homebutton"
+                app:backgroundTint="@null" />
+
+
+            <Button
+                android:id="@+id/nextAchieves"
+                android:drawableLeft="@drawable/ic_baseline_star_rate_24"
+                android:layout_width="140dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:background="@drawable/ronded_buttonsblack"
+                android:text="Achieves"
+                app:backgroundTint="@null" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+</LinearLayout>
+
+
+
+
+
+
+
+

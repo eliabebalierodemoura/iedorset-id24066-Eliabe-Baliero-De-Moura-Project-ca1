@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ie.dorset.24066.Eliabe_ca1Project</string>
+    <string name="porfolioText">Hi My name is Eliabe Baliero de moura. I\'m an app developer, bellow some information regard me.</string>
+    <string name="porfoliotest1">24066@student.dorset-college.ie</string>
+    <string name="porfiletext2">(085) 300 3045</string>
+    <string name="porfiletext3">17.AV stephingreen, 1 floor</string>
+    <string name="activity2Text">Hi Welcome to my Education page, here you can find a little more about my college and some programs that i wold like to talk.</string>
+    <string name="activity2Text1">About Dorset:</string>
+    <string name="activity2Text2">Established in 1983, Dorset College is a private higher education institution, located in the centre of Dublin. Situated in beautiful Georgian buildings, with elegant, spacious rooms, Dorset College offers an exciting and supportive learning environment. At Dorset College you can pursue a course of study that will give you confidence and shape your future career. Dorset graduates work in many of the leading industries in Ireland and abroad.</string>
+    <string name="text1activity2">Welcome to my page education, here you can find a little more about my school as well about my graduation.</string>
+    <string name="text2activity2">About Dorset:</string>
+    <string name="text3activity2">Established in 1983, Dorset College is a private higher education institution, located in the centre of Dublin. Situated in beautiful Georgian buildings, with elegant, spacious rooms, Dorset College offers an exciting and supportive learning environment. At Dorset College you can pursue a course of study that will give you confidence and shape your future career. Dorset graduates work in many of the leading industries in Ireland and abroad.</string>
+    <string name="activity3Text1">Welcome to my skills page! On this page we can see some works that i have developed.</string>
+    <string name="activity3Text2">Is there any program would you like to do?</string>
+    <string name="activity3Text3">Lets build a website for you !!</string>
+    <string name="activity3Text4">how about try a game?</string>
+    <string name="activity4Text1">Hello!!! Welcome to my hobbies page, von this page you can see some of my favorite activities.</string>
+    <string name="activity4Text2">We are always updating our videos on youtube , and try to introduce new developments on our webpage.</string>
+    <string name="activity5Text1">Welcome to my achievements page, here you are about to see some of my goals.</string>
+    <string name="activity5Text2">Working as a software engineer is one of my goals. Here a little.</string>
+    <string name="activity5Text3">Software engineering is an engineering branch associated with development of software product using well-defined scientific principles, methods and procedures. The outcome of software engineering is an efficient and reliable software product.</string>
+    <string name="copyright">E.g.</string>
+    <string name="copyright1">Copyright Eliabe moura 2022</string>
+    <string name="textrightCopy">" Built with Android Studio"</string>
+
+
+</resources>
