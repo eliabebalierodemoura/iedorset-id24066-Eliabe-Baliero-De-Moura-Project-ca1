@@ -19,3 +19,5 @@ Discussion:
 Working at an Android studio was a challenge for me, because I did not know the Kotlin language. In this section I will be talking a little bit more about my process to and how I faced some issues. 
 
 Once I started to work on it, I got some issues with my app, the solution that I found was downloading an App called “IObit uninstaller” so this App helped me uninstall every file that I had on my pc about Android studio, so like this I could start from scratch and then installing again Android studio which worked perfectly on this time. Another issue that I had was creating my “exit” button, because I wanted to do something more interactive so after looking for a solution, I could find on YouTube a video where I could create an exit button that’s asked for the user whether they wanted to stay or turn off the app. In order to create the round buttons, I needed to create a new draw resource file as show below: 
+![02 03 2022_19 53 49_REC](https://user-images.githubusercontent.com/90689336/156557767-780f0296-76bd-4a5a-b279-4d0885a27493.png)
+
