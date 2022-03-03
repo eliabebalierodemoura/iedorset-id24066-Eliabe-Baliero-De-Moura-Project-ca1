@@ -55,7 +55,7 @@ Introduction to Android Studio (technotalkative.com)
 
 YouTube 
 
-How to Use Exit Alert Dialog in Android using Kotlin Language || Alert Dialog in Android. - Bing video 
+https://www.bing.com/videos/search?q=How+to+Use+Exit+Alert+Dialog+in+Android+using+Kotlin+Language+%7c%7c+Alert+Dialog+in+Android.+-+Bing+video&&view=detail&mid=3169C69A555AF70E27093169C69A555AF70E2709&&FORM=VRDGAR&ru=%2Fvideos%2Fsearch%3Fq%3DHow%2Bto%2BUse%2BExit%2BAlert%2BDialog%2Bin%2BAndroid%2Busing%2BKotlin%2BLanguage%2B%257c%257c%2BAlert%2BDialog%2Bin%2BAndroid.%2B-%2BBing%2Bvideo%26FORM%3DHDRSC3
 
 YouTube 
 
