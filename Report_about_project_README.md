@@ -22,4 +22,5 @@ Once I started to work on it, I got some issues with my app, the solution that I
 ![02 03 2022_19 53 49_REC](https://user-images.githubusercontent.com/90689336/156557767-780f0296-76bd-4a5a-b279-4d0885a27493.png)
 Once I created this button and set up the color, I could add it and turn my four front page buttons. 
 To do an icon which works as a button I needed to create a home icon button on my Android studio: 
-
+![02 03 2022_19 57 51_REC](https://user-images.githubusercontent.com/90689336/156558032-517285c4-91d9-4ee0-a25f-58757b5d219b.png)
+Another step that I would like to talk about too was to set up the icons on my buttons. After good research I found a solution as you can see in my code: 
