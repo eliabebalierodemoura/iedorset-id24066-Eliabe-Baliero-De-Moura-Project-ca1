@@ -59,8 +59,7 @@ https://www.bing.com/videos/search?q=How+to+Use+Exit+Alert+Dialog+in+Android+usi
 
 YouTube 
 
-Android|UI|How To Create A Button With Icon and Text - YouTube 
-
+https://www.youtube.com/watch?v=cOeK32o8eB4&t=2s
  
 
  
