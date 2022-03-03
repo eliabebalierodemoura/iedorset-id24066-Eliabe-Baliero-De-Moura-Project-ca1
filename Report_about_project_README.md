@@ -24,3 +24,46 @@ Once I created this button and set up the color, I could add it and turn my four
 To do an icon which works as a button I needed to create a home icon button on my Android studio: 
 ![02 03 2022_19 57 51_REC](https://user-images.githubusercontent.com/90689336/156558032-517285c4-91d9-4ee0-a25f-58757b5d219b.png)
 Another step that I would like to talk about too was to set up the icons on my buttons. After good research I found a solution as you can see in my code: 
+![02 03 2022_20 04 26_REC](https://user-images.githubusercontent.com/90689336/156558237-a4ebeb97-1546-4111-8733-fcacf0efde5e.png)
+As you can see, I set up the icon on the left side. 
+
+The hardest thing was sometimes finding the contents in Kotlin language, since most of the tutorials that I found were in java, so sometimes I got some errors in my code. 
+
+Conclusion: 
+
+Learning Android studio is I good experience, especially in Kotlin language, but once we get used to with this language everything seems easier. All tasks carried out on this project were to force and create affinity with this App platform. It’s an Android focused IDE, designed specially for the Android development. It was launched on 16th May 2013, during Google I/O 2013 annual event. Android studio contains all the Android sDK tools to design, test, debug and profile your app. By looking at the development tools and environment, we can its similar to eclispe with the ADT plug-in there are many cool features available in Android Studio which can foster and increase your development productivity. Bellow you can find some links that I used to develop the project and the link for my GitHub project and the video on YouTube that I did for the project. 
+
+ 
+
+Link for My project on GitHub, note: my APK file is together on this link: 
+
+eliabebalierodemoura/iedorset-id24066-Eliabe-Baliero-De-Moura-Project-ca1 (github.com) 
+
+Link for my YouTube video explaining my project: 
+
+https://www.youtube.com/watch?v=Abag92QQY8A&feature=youtu.be 
+
+ 
+
+ 
+
+Links that I used to help me to build the project: 
+
+google 
+
+Introduction to Android Studio (technotalkative.com) 
+
+YouTube 
+
+How to Use Exit Alert Dialog in Android using Kotlin Language || Alert Dialog in Android. - Bing video 
+
+YouTube 
+
+Android|UI|How To Create A Button With Icon and Text - YouTube 
+
+ 
+
+ 
+
+ 
+
